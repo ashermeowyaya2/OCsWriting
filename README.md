@@ -17,6 +17,8 @@ I'll add you to a repository, but you don't need to worry much about that
 
 # Things you can do, and you should do
 
+YOU CAN ACCESS THIS SECTION IN A BETTER WAY AFTER THE SET UP !
+
 Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the same version
 
 You can access obsidian through your phone !
