@@ -20,7 +20,7 @@ if you've done that you can
 `cd "./Documents/ObsidianBS/"`
 
 you can then do
-`git clone https://github.com/ashermeowyaya2/OCsWriting.git` \br
+`git remote add origin https://github.com/ashermeowyaya2/OCsWriting.git` \br
 
 `cd ./OCsWriting/` \br
 
