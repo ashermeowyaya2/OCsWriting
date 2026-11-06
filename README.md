@@ -20,9 +20,11 @@ if you've done that you can
 `cd "./Documents/ObsidianBS/"`
 
 you can then do
-`git clone https://github.com/ashermeowyaya2/OCsWriting.git`
-`cd ./OCsWriting/`
-`git init`
+`git clone https://github.com/ashermeowyaya2/OCsWriting.git` \br
+
+`cd ./OCsWriting/` \br
+
+`git init` \br
 
 if you get any issues with this part, just ping me !
 to be honest no one has tried this yet to tell me if i may be missing anything
