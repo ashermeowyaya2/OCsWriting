@@ -31,7 +31,7 @@ if for whatever reason you want to learn a little more, https://www.youtube.com/
 
 # 4. Obsidian !
 
-Open it up, and
+Open it up, and -------- (this part not sure how to explain, i need a sacrifice for me to help out to know what to put)
 
 ---
 
