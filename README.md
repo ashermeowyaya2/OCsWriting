@@ -30,7 +30,10 @@ Once its been made and such, just follow the pictures :o)
 | ![[Screenshot_20261106_173930_Obsidian.jpg\|209x429]] | <br>![[Screenshot_20261106_173941_Obsidian.jpg\|198]] | ![[Screenshot_20261106_173952_Obsidian.jpg]] |
 | ----------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
 | ![[Screenshot_20261106_174002_Obsidian.jpg]]          | ![[Screenshot_20261106_174015_Obsidian.jpg]]          | ![[Screenshot_20261106_174030_Obsidian.jpg]] |
-|                                                       |                                                       |                                              |
+| ![[Screenshot_20261106_174039_Obsidian.jpg]]          | ![[Screenshot_20261106_174248_Obsidian.jpg]]          | ![[Screenshot_20261106_174303_Obsidian.jpg]] |
+| Click options                                         | For 1, make sure you have a github account            |                                              |
+| ![[Screenshot_20261106_174328_Obsidian.jpg]]          | ![[Screenshot_20261106_174350_Obsidian.jpg]]          | ![[Screenshot_20261106_174400_Obsidian.jpg]] |
+|                                                       | Go back and                                           |                                              |
 
 A thing to note, this will not get you the plugins automatically, so here's a list of the one's:
 - Advanced Canvas
