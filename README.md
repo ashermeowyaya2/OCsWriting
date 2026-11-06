@@ -27,9 +27,10 @@ First install Obsidian, open it, create vault, device storage and name it "OCs W
 Once its been made and such, just follow the pictures :o)
 
 
-| ![[Screenshot_20261106_173930_Obsidian.jpg\|209x429]] | <br>![[Screenshot_20261106_173941_Obsidian.jpg\|198]] |     |
-| ----------------------------------------------------- | ----------------------------------------------------- | --- |
-|                                                       |                                                       |     |
+| ![[Screenshot_20261106_173930_Obsidian.jpg\|209x429]] | <br>![[Screenshot_20261106_173941_Obsidian.jpg\|198]] | ![[Screenshot_20261106_173952_Obsidian.jpg]] |
+| ----------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------- |
+| ![[Screenshot_20261106_174002_Obsidian.jpg]]          | ![[Screenshot_20261106_174015_Obsidian.jpg]]          | ![[Screenshot_20261106_174030_Obsidian.jpg]] |
+|                                                       |                                                       |                                              |
 
 A thing to note, this will not get you the plugins automatically, so here's a list of the one's:
 - Advanced Canvas
