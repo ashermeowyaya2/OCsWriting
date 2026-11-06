@@ -52,5 +52,9 @@ A thing to note, this will not get you the plugins automatically, so here's a li
 - Media Extended
 - PDF++
 - Tag Wrangler
-  
+
+
+You can also change these to not show, basically they're just saying what's been added, modified, etc.
+I keep it on because I'd like to know exactly what's going on always but yeah.
+(This is in the setting's page of the Fit plugin)
 ![[README-1793987727064.webp]]
