@@ -43,7 +43,10 @@ Select the documents folder, go into Obsidian, and then select OCs writing
 Go into settings, go into Fit
 ![[README-1794002829896.webp]]
 
-click the![[README-1794002848659.webp]]
+click the![[README-1794002848659.webp]] and just change the expiration to be Forever, that way you dont have to renew it
+the token is pretty important be careful who you share it with![[README-1794003805399.webp]]
+
+after you've generated it, copy it and paste it into Github Personal Access token
 
 ---
 
