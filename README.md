@@ -1,16 +1,5 @@
-# OCsWriting
-Hello everynyan?
-/?
-/??w
+
+# How to set up !
 
 
-?nyan nyan
-
-`>o<`
-
-hello
-
-
-ptgotwisoje
-
-oihfwiosefhihgror
+1.  ## Download Git
