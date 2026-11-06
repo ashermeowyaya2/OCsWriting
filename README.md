@@ -10,8 +10,16 @@ Once it's installed, you can leave it at that for now.
 # 3. The scary part....
 
 Open Git Bash
+
+currently you're in the /c/Users/(USERNAME) directory, it's basically the same as C:\Users\(USERNAME)
+you can make sure of this by typing
+`pwd`
+
 and now follow my lead !
 DO NOT FOLLOW THIS JUST YET.
+
+
+
 ```
 echo "# OCsWriting" >> README.md
 git init
