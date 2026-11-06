@@ -20,7 +20,7 @@ if you've done that you can
 `cd "./Documents/ObsidianBS/"`
 
 you can then do
-`git remote add origin https://github.com/ashermeowyaya2/OCsWriting.git` \br
+`` \br
 
 `cd ./OCsWriting/` \br
 
@@ -36,6 +36,10 @@ if for whatever reason you want to learn a little more, https://www.youtube.com/
 Download it
 https://obsidian.md/download
 Open it up, and -------- (this part not sure how to explain, i need a sacrifice for me to help out to know what to put)
+
+Open folder as Vault
+Select the documents folder, go into Obsidian, and then select OCs writing
+
 
 ---
 
