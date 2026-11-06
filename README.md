@@ -12,7 +12,9 @@ Once it's installed, you can leave it at that for now.
 make sure to send the account name or whatever to me so we can add each other :3
 I'll add you to a repository, but you don't need to worry much about that
 
-# 3. 
+# 3. The scary part....
+
+Open Git Bash
 
 ---
 
