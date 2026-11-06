@@ -20,25 +20,18 @@ if you've done that you can
 `cd "./Documents/ObsidianBS/"`
 
 you can then do
-git init
-git clone https://github.com/ashermeowyaya2/OCsWriting.git
+`git clone https://github.com/ashermeowyaya2/OCsWriting.git`
+`cd ./OCsWriting/`
+`git init`
 
+if you get any issues with this part, just ping me !
+to be honest no one has tried this yet to tell me if i may be missing anything
 
-and now follow my lead !
-DO NOT FOLLOW THIS JUST YET.
+if for whatever reason you want to learn a little more, https://www.youtube.com/watch?v=SwtL-6w-B5c <- this video explains pretty nicely
 
+# 4. Obsidian !
 
-
-```
-echo "# OCsWriting" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ashermeowyaya2/OCsWriting.git
-git push -u origin main
-```
-
+Open it up, and
 
 ---
 
