@@ -20,6 +20,7 @@ I'll add you to a repository, but you don't need to worry much about that
 YOU CAN ACCESS THIS SECTION IN A BETTER WAY AFTER THE SET UP !
 
 Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the same version
+Click it after making changes specifically.
 
 You can access obsidian through your phone !
 First install Obsidian, open it, create vault, device storage and name it "OCs Writing", allow file access and select where you want to have the vault (It's just a folder being made), i recommend putting into Documents or you could create ad folder in documents, name it something like "ObsidianBS" and go select that folder.
@@ -29,3 +30,5 @@ Once its been made and such, just follow the pictures :o)
 | ![[Screenshot_20261106_173930_Obsidian.jpg\|209x429]] | <br>![[Screenshot_20261106_173941_Obsidian.jpg\|198]] |     |
 | ----------------------------------------------------- | ----------------------------------------------------- | --- |
 |                                                       |                                                       |     |
+
+A thing to note, this will not get you the plugins automatically, so here's a list of the one's:
