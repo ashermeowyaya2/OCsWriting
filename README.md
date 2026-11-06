@@ -19,6 +19,8 @@ Think about where do you want to keep all the files the project, my recommendati
 if you've done that you can
 `cd "./Documents/ObsidianBS/OCs Writing"`
 
+you could 
+
 and now follow my lead !
 DO NOT FOLLOW THIS JUST YET.
 
