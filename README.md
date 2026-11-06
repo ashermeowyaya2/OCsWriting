@@ -15,11 +15,14 @@ currently you're in the /c/Users/(USERNAME) directory, it's basically the same a
 you can make sure of this by typing
 `pwd`
 
-Think about where do you want to keep all the files the project, my recommendation ? Documents, and then make a folder named something like 'ObsidianBS' or just go straight to 'OC Writing'
+Think about where do you want to keep all the files the project, my recommendation ? Documents, and then make a folder named something like 'ObsidianBS' 
 if you've done that you can
-`cd "./Documents/ObsidianBS/OCs Writing"`
+`cd "./Documents/ObsidianBS/"`
 
-you could 
+you can then do
+git init
+git clone https://github.com/ashermeowyaya2/OCsWriting.git
+
 
 and now follow my lead !
 DO NOT FOLLOW THIS JUST YET.
