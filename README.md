@@ -32,3 +32,23 @@ Once its been made and such, just follow the pictures :o)
 |                                                       |                                                       |     |
 
 A thing to note, this will not get you the plugins automatically, so here's a list of the one's:
+- Advanced Canvas
+- Advanced Tables
+- Better Word Count
+- Buttons
+- Custom Classes
+- Custom Font Loader
+- Dataview
+- Drag and Drop Sort
+- Editing Toolbar
+- Excalidraw
+- Fit (Should already have this one..)
+- Folder Links
+- Highlightr
+- Iconize
+- Image Converter
+- Inline spoilers
+- Longform
+- Media Extended
+- PDF++
+- Tag Wrangler
