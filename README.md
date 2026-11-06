@@ -20,5 +20,6 @@ I'll add you to a repository, but you don't need to worry much about that
 Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the same version
 
 You can access obsidian through your phone !
-First install Obsidian, open it, create vault, device storage and name it "OCs Writing", allow file access
+First install Obsidian, open it, create vault, device storage and name it "OCs Writing", allow file access and select where you want to have the vault (It's just a folder being made), i recommend putting into Documents or you could create ad folder in documents, name it something like "ObsidianBS" and go select that folder.
+Once its been made and such, just follow the pictures :o)
 
