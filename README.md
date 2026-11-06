@@ -5,7 +5,7 @@
 ## 1. Download Git
 
 https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe
-
+Click next until the Editor part, I'd advise choosing Visual Studio code or Notepad ++ 
 ## 2. Set up a GitHub account
 
 make sure to send the account name or whatever to me so we can add each other :3
