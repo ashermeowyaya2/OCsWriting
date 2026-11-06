@@ -17,6 +17,8 @@ I'll add you to a repository, but you don't need to worry much about that
 
 # Things you can do, and you should do
 
-You can access obsidian through your phone !
+Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the same version
 
-Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the sam
+You can access obsidian through your phone !
+First install Obsidian, open it, create vault, device storage and name it "OCs Writing", allow file access
+
