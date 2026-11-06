@@ -5,7 +5,8 @@
 ## 1. Download Git
 
 https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe
-Click next until the Editor part, I'd advise choosing Visual Studio code or Notepad ++ 
+Click next until the Editor part, I'd advise choosing Visual Studio code or Notepad ++ , or even Notepad if you don't want to download a new program, Then select the Override, and make sure it's put as main, click Next until the end. IF YOU HAVE ANY DOUBTS, FEEL FREE TO ASK !!
+Once it's installed, you can leave it at that for now.
 ## 2. Set up a GitHub account
 
 make sure to send the account name or whatever to me so we can add each other :3
