@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "05b0ffd8e8fa8311",
+    "type": "split",
+    "children": [
+      {
+        "id": "aecc99cf7f729b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38d3744a39134e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCs/Minecraft/Phidel/About Phantoms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About Phantoms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99862de0f10aea45",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba8d0b55783093fa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "fec3725ddb516238",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0c4878978bddf628",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7d1211506da47a39",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "6f7c4660b47a6da5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "7bf937d833915e6f",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4ad8c75246bd7e14",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7eded25393da8e6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e047e8c879d50412",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d13506dbad0e07a1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "f38d3744a39134e8",
+  "lastOpenFiles": [
+    "OCs/Minecraft/Phidel/Comics Where Mentioned.md",
+    "OCs/ComicsArchive/Lazy Random Phidel Lore Comic.canvas",
+    "OCs/ComicsArchive/Silly Phidel Studying Enderian Language.canvas",
+    "OCs/ComicsArchive/Smelling the flowers.canvas",
+    "OCs/ComicsArchive/Burning Phantoms.canvas",
+    "OCs/Minecraft/Phidel/About Phidel.md",
+    "OCs/Minecraft/Phidel/About Phantoms.md",
+    "OCs/Minecraft/Phidel/Phidel Drawings.canvas",
+    "OCs/Minecraft/Phidel/Phidel's Trinket Composition.md",
+    "Templates/TemplateNo2-AboutOC.md",
+    "Images/Phone Sharing @_@.md",
+    "OCs/Phidel/About Phidel.md",
+    "Excalidraw/Drawing 2026-11-04 22.26.04.excalidraw.md",
+    "Excalidraw",
+    "Templates/ComicTemplate.canvas",
+    "Images/PhoneStuff/20261104_172032.png",
+    "Images/PhoneStuff/20261104_172045.png",
+    "Images/PhoneStuff/20261104_172157.png",
+    "Images/PhoneStuff/20261104_172014.png",
+    "Images/PhoneStuff",
+    "Images/20261104_172157.heic~",
+    "Images/20261104_172045.heic~",
+    "Images/20261104_172032.heic~",
+    "OCs/Minecraft/Leonard/About Leonard.md",
+    "OCs/Minecraft/Leonard/Comics Where Mentioned.md",
+    "OCs/Minecraft/Leonard/OCNAME Drawings.canvas",
+    "OCs/Minecraft/Adelyn/Adelyn Drawings.canvas",
+    "OCs/Minecraft/Adelyn/About Adelyn.md",
+    "OCs/Minecraft/Adelyn/Comics Where Mentioned.md",
+    "OCs/Minecraft/Phidel/Phantom Anatomy.md",
+    "OCs/Minecraft/Phidel/Phidel's Trinket Anatomy.md",
+    "OCs/Minecraft/Leonard",
+    "OCs/Minecraft/Adelyn",
+    "OCs/Minecraft/Phidel",
+    "OCs/Minecraft",
+    "OCs/ComicsArchive",
+    "Templates/OCFolderTemplate/Template-AboutOC.md",
+    "Templates/OCFolderTemplate/OCNAME Drawings.canvas",
+    "Templates/OCFolderTemplate/Comics Where Mentioned.md",
+    "OCs/Phidel/Phantom Anatomy.md",
+    "Templates/TemplateNo1.md",
+    "Images/Untitled.canvas"
+  ]
+}

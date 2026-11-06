@@ -1,0 +1,80 @@
+{
+  "orders": {
+    "Templates/OCFolderTemplate": [
+      "Template-AboutOC.md",
+      "OCNAME Drawings.canvas",
+      "Comics Where Mentioned.md"
+    ],
+    "AsherOCs/Minecraft/Phidel": [
+      "About Phidel.md",
+      "About Phantoms.md",
+      "Phidel's Trinket Composition.md",
+      "Phidel Drawings.canvas",
+      "Comics Where Mentioned.md"
+    ],
+    "/": [
+      "AsherOCs",
+      "Templates",
+      "Images",
+      "Texts",
+      "Excalidraw"
+    ],
+    "Templates": [
+      "OCFolderTemplate",
+      "TemplateNo1.md",
+      "ComicTemplate.canvas"
+    ],
+    "AsherOCs": [
+      "Casino Universe",
+      "Minecraft",
+      "ComicsArchive",
+      "AccessibleDrawings",
+      "AnimationArchive",
+      "DrawingsArchive"
+    ],
+    "AsherOCs/Minecraft": [
+      "Phidel",
+      "Adelyn",
+      "Leonard"
+    ],
+    "AsherOCs/Minecraft/Adelyn": [
+      "About Adelyn.md",
+      "Adelyn Drawings.canvas",
+      "Comics Where Mentioned.md"
+    ],
+    "Images": [
+      "20261104_172014.heic~",
+      "20261104_172032.heic~",
+      "20261104_172045.heic~",
+      "20261104_172157.heic~",
+      "PhoneStuff",
+      "Phone Sharing @_@.md"
+    ],
+    "AsherOCs/ComicsArchive": [
+      "Burning Phantoms.canvas",
+      "Lazy Random Phidel Lore Comic.canvas",
+      "Silly Phidel Studying Enderian Language.canvas",
+      "Smelling the flowers.canvas"
+    ],
+    "AsherOCs/Minecraft/Leonard": [
+      "About Leonard.md",
+      "Comics Where Mentioned.md",
+      "OCNAME Drawings.canvas"
+    ],
+    "AsherOCs/Casino Universe/Asher": [
+      "About Asher.md",
+      "Asher Drawings.canvas",
+      "Comics Where Mentioned.md"
+    ],
+    "AsherOCs/Casino Universe/Shirley": [
+      "About Shirley.md",
+      "Shirley Drawings.canvas",
+      "Comics Where Mentioned.md"
+    ],
+    "AsherOCs/AnimationArchive": [
+      "TodayImGonnaTurnIntoA.canvas",
+      "clownMadeOfMeat.canvas",
+      "Finished"
+    ]
+  }
+}

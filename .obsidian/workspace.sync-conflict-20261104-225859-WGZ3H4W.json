@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "f7261d498176ff0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "743e89f1b4a1d182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5112dea521c5bd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "OCs/ComicsArchive/Burning Phantoms.canvas",
+                "viewState": {
+                  "x": -198.5,
+                  "y": -43.5,
+                  "zoom": -0.08671033346748332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Burning Phantoms"
+            }
+          },
+          {
+            "id": "825d8555366202c0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "OCs/ComicsArchive/Lazy Random Phidel Lore Comic.canvas",
+                "viewState": {
+                  "x": -1760.8753064520185,
+                  "y": 66.23405031605093,
+                  "zoom": 0.10260044282549818
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lazy Random Phidel Lore Comic"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58db6548e6e06321",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b015c62ebfe0dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b011bf1948255e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2076474053c61cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bd09640071e7358",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9b1b7891bf928d19",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "939047e4fd2744a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "571ece6e07d06041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e90fec4e90157f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Texts/Phidel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83467f38f6f65a51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Texts/Phidel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f933283e36a85307",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a245706d41951eb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "605bb25df7ebbec7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Texts/Phidel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "825d8555366202c0",
+  "lastOpenFiles": [
+    "OCs/ComicsArchive/Burning Phantoms.canvas",
+    "OCs/Minecraft/Phidel/About Phidel.md",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/ygedht.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic9.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic8.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic7.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic6.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic5.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic4.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic3.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic2.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/phidelmoic14.png",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/3.png~",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/3.kra",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/3.kra~",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/2.kra",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/1.kra~",
+    "OCs/DrawingsArchive/PCDrawings/Comics/PT2 to Claras suffering/1.kra",
+    "OCs/DrawingsArchive/PCDrawings/oca/chris/snapshot_2026-02-14_23-07-43.kra",
+    "OCs/DrawingsArchive/PCDrawings/oca/chris/snapshot_2026-02-14_20-51-44.kra",
+    "OCs/DrawingsArchive/PCDrawings/oca/chris/chrisbodymapver1.kra",
+    "OCs/DrawingsArchive/PCDrawings/tony/tonywifefucking.kra",
+    "OCs/Minecraft/Phidel/Phantom Anatomy.md",
+    "OCs/Minecraft/Phidel/Phidel Drawings.canvas",
+    "OCs/Minecraft/Phidel/Phidel's Trinket Anatomy.md",
+    "OCs/Minecraft/Adelyn/Comics Where Mentioned.md",
+    "Templates/TemplateNo1.md",
+    "Excalidraw/Drawing 2026-11-04 22.26.04.excalidraw.md",
+    "OCs/Minecraft/Phidel/Comics Where Mentioned.md",
+    "OCs/Minecraft/Leonard/About Leonard.md",
+    "Templates/OCFolderTemplate/Template-AboutOC.md",
+    "Templates/OCFolderTemplate/TemplateText.md",
+    "OCs/ComicsArchive/Smelling the flowers.canvas",
+    "OCs/ComicsArchive/Silly Phidel Studying Enderian Language.canvas",
+    "OCs/ComicsArchive/Lazy Random Phidel Lore Comic.canvas",
+    "Texts/feoiajeoe.md",
+    "OCs/Minecraft/Adelyn.md",
+    "Templates/TemplateNo2-AboutOC.md",
+    "OCs/Minecraft/Adelyn/About Adelyn.md",
+    "OCs/Minecraft/Adelyn/Adelyn Drawings.canvas",
+    "OCs/Minecraft/Leonard/Comics Where Mentioned.md",
+    "OCs/Minecraft/Leonard/TemplateText.md",
+    "OCs/Minecraft/Leonard/OCNAME Drawings.canvas",
+    "Templates/OCFolderTemplate/OCNAME Drawings.canvas",
+    "Texts/Leonard.md",
+    "Templates/OCFolderTemplate/Comics Where Mentioned.md",
+    "Templates/ComicTemplate.canvas",
+    "OCs/ComicsArchive/Untitled.canvas",
+    "Images/Phone Sharing @_@.md",
+    "OCs/ComicsArchive/Silly Phidel Studying Enderian Language.md",
+    "OCs/Drawings/Drawing 2026-11-04 20.29.16.excalidraw.md",
+    "OCs/Phidel.md",
+    "Texts/Phidel.md",
+    "Phidel.md",
+    "Templates/OCFolderTemplate/CHARACTERNAME.md"
+  ]
+}

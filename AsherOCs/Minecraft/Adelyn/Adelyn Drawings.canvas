@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0f0140ee0bb74ab1","type":"group","x":-260,"y":-340,"width":440,"height":520},
+		{"id":"a805242e103d9be7","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/tonyhelp.png","x":-240,"y":-240,"width":400,"height":400},
+		{
+			"id":"d69baadddb03ea91",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/OCNAME/|OCNAME]]",
+			"styleAttributes":{},
+			"x":-170,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

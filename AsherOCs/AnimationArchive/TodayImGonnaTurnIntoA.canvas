@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"496d609efef27bb4","type":"group","x":-220,"y":-280,"width":440,"height":540},
+		{
+			"id":"b597f70406b0ff70",
+			"type":"text",
+			"text":"Characters mentioned:\nClara, Lillian, Jay, Mary, [[AsherOCs/Casino Universe/Asher/|Asher]], Margarita, Rob, ",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-260,
+			"width":260,
+			"height":80
+		},
+		{"id":"e47e03e998edb5f8","type":"file","file":"AsherOCs/AnimationArchive/Finished/todayImGonnaTurnIntoA.mp4","x":-200,"y":-160,"width":400,"height":400},
+		{
+			"id":"9ecaf36abe6c77e3",
+			"type":"text",
+			"text":"Tags:\n#animation #scary😨 #silly",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-40,
+			"y":-380,
+			"width":260,
+			"height":80,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

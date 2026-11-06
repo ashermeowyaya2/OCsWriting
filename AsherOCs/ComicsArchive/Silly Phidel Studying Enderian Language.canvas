@@ -1,0 +1,46 @@
+{
+	"nodes":[
+		{
+			"id":"3ac595bbde820038",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/Phidel/|Phidel]], Enoch",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":"dotted"
+			},
+			"x":-1035,
+			"y":-670,
+			"width":280,
+			"height":70,
+			"color":"6"
+		},
+		{"id":"fe8086153bb02780","type":"file","file":"Images/PhoneStuff/20261104_172157.png","x":-1158,"y":-580,"width":527,"height":810},
+		{
+			"id":"81443fc1b601bac2",
+			"type":"text",
+			"text":"## Transcript:\n1.\n\tGreen     Red\n\t\n2.\n\thm...\n\t\n3.\n\tAH ! (Phidel)\n\t\n4.\n\tvwoop\n\tscribble\n\t\n5.\n\tembarassed\n\t\n6.\n\tStill can't figure out what it means\n\t\n7.\n\tI'm terrible at this",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-600,
+			"y":-580,
+			"width":420,
+			"height":340
+		},
+		{
+			"id":"3ad31e3fd8848aa8",
+			"type":"text",
+			"text":"Tags:\n#sillycomic",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-440,
+			"y":-205,
+			"width":260,
+			"height":60,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

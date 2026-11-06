@@ -1,0 +1,46 @@
+{
+	"nodes":[
+		{
+			"id":"aea3a39ca9ad9ae4",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/Phidel/|Phidel]], [[OCs/Minecraft/Adelyn/|Adelyn]], [[OCs/Minecraft/Leonard/|Leonard]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":"dotted"
+			},
+			"x":-620,
+			"y":-490,
+			"width":280,
+			"height":70,
+			"color":"6"
+		},
+		{"id":"61ef5ef025835bb8","type":"file","file":"Images/PhoneStuff/20261104_172014.png","x":-737,"y":-400,"width":515,"height":803},
+		{
+			"id":"0e69af2fe82159d4",
+			"type":"text",
+			"text":"Adelyn and Phidel watch as the phantoms around start to burn in the sunlight.\nAdelyn glances at Pidel, who seems mostly unphased by the scene.\n\n\"Are you alright ?\" She asks, surprising Phidel a little.\nThey weren't quite sure what Adelyn meant with the question, thinking a little too literally.\n\"No owies..\" They think to themselves, and decide to nod in response to the question.\n\nAdelyn pauses, a little puzzled by Phidel's response.\n\"... Not physically.\"\nPhidel just looks at her confused.\n\"Do you **feel anything** when looking at your kind burn ?\" She tried asking again, much more straightforward, she knew it sounded fucked up but clearly they needed a clearer question.\n\"... I don't know\" They responded, staring at her back blankly.\n---\nScene suddenly changes, Adelyn and Leonard are laying in their tent, talking about what happened in the morning.\n\"I don't know... they just had this blank.. expression. But I swear they can feel empathy and... feelings.\"\nLeonard doesn't look too convinced.\nEnds up, Phidel had been listening all along.\n\n\n\"It used to hurt... In a way. But I got used to it. Still feels weird, but it's just our nature.\"",
+			"styleAttributes":{},
+			"x":-160,
+			"y":-400,
+			"width":500,
+			"height":800
+		},
+		{
+			"id":"64fb3e2cd4eb32a2",
+			"type":"text",
+			"text":"Tags:\n#placeholder",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":80,
+			"y":-480,
+			"width":260,
+			"height":60,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

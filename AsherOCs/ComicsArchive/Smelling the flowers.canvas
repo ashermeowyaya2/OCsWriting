@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{"id":"83e0b1316e3aed4f","type":"file","file":"AsherOCs/AccessibleDrawings/D3ERFCWSDC.png","x":-537,"y":134,"width":515,"height":344},
+		{"id":"797fed259e2db3ec","type":"file","file":"AsherOCs/AccessibleDrawings/D3ERFCWSDC2.png","x":-537,"y":-212,"width":518,"height":346},
+		{
+			"id":"5326cedfd5d62563",
+			"type":"text",
+			"text":"- <h2><center>Transcript:</center></h2>\n- Adelyn: Do you smell that Phidel ?\n- Phidel: No... ? *What exactly?*\n- Adelyn: Flowers? Air ? Are you silly?\n",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":0,
+			"y":-212,
+			"width":361,
+			"height":132
+		},
+		{
+			"id":"47011780747c2efe",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/Phidel/|Phidel]], [[OCs/Minecraft/Adelyn/|Adelyn]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":"dotted"
+			},
+			"x":-418,
+			"y":-300,
+			"width":280,
+			"height":70,
+			"color":"6"
+		},
+		{
+			"id":"b77ef78d8d3f6301",
+			"type":"text",
+			"text":"Tags:\n#sillycomic",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":101,
+			"y":-39,
+			"width":260,
+			"height":60,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

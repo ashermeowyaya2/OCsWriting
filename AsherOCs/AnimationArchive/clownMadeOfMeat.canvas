@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"9c3914aa2fadcb12","type":"group","x":-220,"y":-200,"width":440,"height":520},
+		{
+			"id":"2d4f174713bdcc9d",
+			"type":"text",
+			"text":"Characters mentioned:\n[[AsherOCs/clown/|clown]]",
+			"styleAttributes":{},
+			"x":-130,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{"id":"17cbadb30e764204","type":"file","file":"AsherOCs/AnimationArchive/Finished/clownMadeOfMeat.mp4","x":-200,"y":-100,"width":400,"height":400},
+		{
+			"id":"f3497dda9e738d2a",
+			"type":"text",
+			"text":"Tags:\n#animation #scary😨 #silly",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":-40,
+			"y":-300,
+			"width":260,
+			"height":80,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

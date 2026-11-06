@@ -1,0 +1,48 @@
+{
+	"nodes":[
+		{"id":"9460fe9642782765","type":"group","x":-690,"y":-900,"width":1300,"height":520,"color":"#2f209d"},
+		{"id":"0f0140ee0bb74ab1","type":"group","x":-1125,"y":-360,"width":870,"height":520},
+		{"id":"42dbb393dcf2b45c","type":"group","x":-200,"y":-360,"width":440,"height":520},
+		{
+			"id":"635446e2a8700491",
+			"type":"text",
+			"text":"References",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-171,
+			"y":-880,
+			"width":260,
+			"height":60
+		},
+		{"id":"62af94c7653d12ad","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/PhidelRefColour.png","x":-670,"y":-800,"width":400,"height":400},
+		{"id":"2655cee08eeb6848","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/PhidelRefColourClothes.png","x":-241,"y":-800,"width":400,"height":400},
+		{"id":"689d68d8cdb58b60","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/PhidelRefColourClothesnCape.png","x":190,"y":-800,"width":400,"height":400},
+		{"id":"a805242e103d9be7","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/fwagfth.png","x":-1105,"y":-260,"width":400,"height":400},
+		{"id":"7db5bb0de0c26a3c","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/Comics/RandomPhidelComic/ygedht.png","x":-675,"y":-260,"width":400,"height":400},
+		{
+			"id":"d69baadddb03ea91",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/Phidel/|Phidel]]",
+			"styleAttributes":{},
+			"x":-835,
+			"y":-340,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1fe72c59488e18c5",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/Phidel/|Phidel]]",
+			"styleAttributes":{},
+			"x":-108,
+			"y":-340,
+			"width":260,
+			"height":60
+		},
+		{"id":"3f7f6133d7d1ca98","type":"file","file":"AsherOCs/AccessibleDrawings/phideltyfgj.png","x":-178,"y":-256,"width":400,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

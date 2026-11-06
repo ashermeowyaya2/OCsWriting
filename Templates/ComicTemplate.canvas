@@ -1,0 +1,46 @@
+{
+	"nodes":[
+		{
+			"id":"83a090b84141af00",
+			"type":"text",
+			"text":"Characters mentioned:\n[[OCs/Minecraft/OCNAME/|OCNAME]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null,
+				"border":"dotted"
+			},
+			"x":-421,
+			"y":-446,
+			"width":280,
+			"height":70,
+			"color":"6"
+		},
+		{"id":"768c35a2b97fe8b6","type":"file","file":"AsherOCs/DrawingsArchive/PCDrawings/tonyhelp.png","x":-538,"y":-356,"width":515,"height":515},
+		{
+			"id":"38d7073bd34a6e5a",
+			"type":"text",
+			"text":"- <h2><center>Transcript:</center></h2>\n- TEXT\n",
+			"styleAttributes":{},
+			"x":39,
+			"y":-356,
+			"width":500,
+			"height":515
+		},
+		{
+			"id":"7cbcfe54ec86a57b",
+			"type":"text",
+			"text":"Tags:\n#placeholder",
+			"styleAttributes":{"shape":"parallelogram"},
+			"x":279,
+			"y":-441,
+			"width":260,
+			"height":60,
+			"color":"#300303"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

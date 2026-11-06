@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "f7261d498176ff0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4744fe2cfb49b1c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5016f4bae32eafcc",
+            "type": "leaf",
+            "state": {
+              "type": "mx-welcome",
+              "state": {},
+              "icon": "home",
+              "title": "Onboarding - Media Extended"
+            }
+          },
+          {
+            "id": "78914b81fb2e1b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58db6548e6e06321",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b015c62ebfe0dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b011bf1948255e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2076474053c61cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#aboutOC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bd09640071e7358",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9b1b7891bf928d19",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "939047e4fd2744a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "571ece6e07d06041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e90fec4e90157f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OCs/Minecraft/Adelyn/About Adelyn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83467f38f6f65a51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Texts/Phidel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f933283e36a85307",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a245706d41951eb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "605bb25df7ebbec7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OCs/Minecraft/Adelyn/About Adelyn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false
+    }
+  },
+  "active": "78914b81fb2e1b8a",
+  "lastOpenFiles": [
+    "AsherOCs/Casino Universe/Asher/Asher Drawings.canvas",
+    "README.md",
+    "AsherOCs/Casino Universe/Asher/Comics Where Mentioned.md",
+    "AsherOCs/Casino Universe/Asher/Animations Where Mentioned.md",
+    "AsherOCs/AnimationArchive/clownMadeOfMeat.canvas",
+    "AsherOCs/AnimationArchive/TodayImGonnaTurnIntoA.canvas",
+    "AsherOCs/AnimationArchive/Finished/ICantDoThisAnymore.mov",
+    "AsherOCs/AnimationArchive/Finished/letstacoboutit.mp4",
+    "Templates/ComicTemplate.canvas",
+    "Templates/OCFolderTemplate/Comics Where Mentioned.md",
+    "AsherOCs/Casino Universe/Shirley/Shirley Drawings.canvas",
+    "AsherOCs/Casino Universe/Shirley/About Shirley.md",
+    "AsherOCs/Casino Universe/Asher/About Asher.md",
+    "Templates/OCFolderTemplate/OCNAME Drawings.canvas",
+    "AsherOCs/AnimationArchive/Finished/todayImGonnaTurnIntoA.mp4",
+    "AsherOCs/AnimationArchive/Finished/clownMadeOfMeat.mp4",
+    "AsherOCs/AnimationArchive/Finished/TakingNeighborsCarForTest.mov",
+    "AsherOCs/AnimationArchive/Finished",
+    "Images/Phone Sharing @_@.md",
+    "AsherOCs/AnimationArchive",
+    "Excalidraw/phidelTrinket.md",
+    "AsherOCs/Minecraft/Phidel/About Phidel.md",
+    "AsherOCs/Casino Universe/Shirley/Comics Where Mentioned.md",
+    "Templates/OCFolderTemplate/Template-AboutOC.md",
+    "AsherOCs/Minecraft/Leonard/About Leonard.md",
+    "AsherOCs/Minecraft/Adelyn/About Adelyn.md",
+    "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
+    "OCs/OCNAME",
+    "AsherOCs/Casino Universe/Shirley",
+    "AsherOCs/AccessibleDrawings/tonyhelp.png",
+    "AsherOCs/ComicsArchive/Smelling the flowers.canvas",
+    "AsherOCs/ComicsArchive/Silly Phidel Studying Enderian Language.canvas",
+    "AsherOCs/ComicsArchive/Lazy Random Phidel Lore Comic.canvas",
+    "AsherOCs/DrawingsArchive/PCDrawings/D3ERFCWSDC.png",
+    "AsherOCs/AccessibleDrawings/shirleyref.png",
+    "AsherOCs/AccessibleDrawings/phideltyfgj.png",
+    "AsherOCs/AccessibleDrawings/oke.png",
+    "AsherOCs/AccessibleDrawings/clownref.png",
+    "AsherOCs/AccessibleDrawings/clara.png",
+    "AsherOCs/AccessibleDrawings/aaaadujwjaf.png",
+    "AsherOCs/AccessibleDrawings/PhidelRefColourClothesnCape.png",
+    "AsherOCs/AccessibleDrawings/PhidelRefColourClothes.png",
+    "AsherOCs/AccessibleDrawings/RandomPhidelComic",
+    "AsherOCs/Minecraft/Phidel/About Phantoms.md",
+    "AsherOCs/Minecraft/Adelyn/Comics Where Mentioned.md",
+    "AsherOCs/Minecraft/Phidel/Comics Where Mentioned.md",
+    "AsherOCs/Minecraft/Phidel/Phidel's Trinket Composition.md",
+    "Templates/TemplateNo1.md",
+    "Templates/TemplateNo2-AboutOC.md",
+    "Texts/05-11-2026.md",
+    "Templates/OCFolderTemplate/TemplateText.md",
+    "Texts/feoiajeoe.md",
+    "OCs/Minecraft/Adelyn.md",
+    "AsherOCs/Minecraft/Leonard/Comics Where Mentioned.md",
+    "OCs/Minecraft/Leonard/TemplateText.md"
+  ]
+}

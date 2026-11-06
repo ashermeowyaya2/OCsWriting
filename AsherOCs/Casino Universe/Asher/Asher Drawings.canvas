@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"0f0140ee0bb74ab1","type":"group","x":-260,"y":-340,"width":440,"height":520},
+		{"id":"e92d89363177e092","type":"group","x":220,"y":-340,"width":440,"height":520},
+		{"id":"a805242e103d9be7","type":"file","file":"AsherOCs/AccessibleDrawings/oke.png","x":-240,"y":-240,"width":400,"height":400},
+		{
+			"id":"d69baadddb03ea91",
+			"type":"text",
+			"text":"Characters mentioned:\n[[AsherOCs/Casino Universe/Asher/|Asher]]",
+			"styleAttributes":{},
+			"x":-170,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{"id":"4d3590860093c82e","type":"file","file":"AsherOCs/AccessibleDrawings/aaaadujwjaf.png","x":240,"y":-240,"width":400,"height":400},
+		{
+			"id":"5eadd8e35916a7a8",
+			"type":"text",
+			"text":"Characters mentioned:\n[[AsherOCs/Casino Universe/Asher/|Asher]], Clara, Baby",
+			"styleAttributes":{},
+			"x":310,
+			"y":-320,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

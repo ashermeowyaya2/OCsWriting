@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"0f0140ee0bb74ab1","type":"group","x":-260,"y":-340,"width":440,"height":520,"color":"#eca7e6"},
+		{"id":"ae735765a5626c9d","type":"group","x":-260,"y":220,"width":440,"height":520},
+		{
+			"id":"d69baadddb03ea91",
+			"type":"text",
+			"text":"Reference",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-170,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{"id":"a805242e103d9be7","type":"file","file":"AsherOCs/AccessibleDrawings/shirleyref.png","x":-240,"y":-240,"width":400,"height":400},
+		{
+			"id":"14dbe51dd14f32f3",
+			"type":"text",
+			"text":"Characters mentioned:\n[[About Shirley|Shirley]]",
+			"styleAttributes":{},
+			"x":-170,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{"id":"542934a92b704896","type":"file","file":"AsherOCs/AccessibleDrawings/tonyhelp.png","x":-240,"y":320,"width":400,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
