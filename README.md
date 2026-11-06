@@ -40,6 +40,10 @@ Open it up, and -------- (this part not sure how to explain, i need a sacrifice 
 Open folder as Vault
 Select the documents folder, go into Obsidian, and then select OCs writing
 
+Go into settings, go into Fit
+![[README-1794002829896.webp]]
+
+click the![[README-1794002848659.webp]]
 
 ---
 
