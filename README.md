@@ -52,3 +52,5 @@ A thing to note, this will not get you the plugins automatically, so here's a li
 - Media Extended
 - PDF++
 - Tag Wrangler
+  
+![[README-1793987727064.webp]]
