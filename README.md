@@ -10,6 +10,18 @@ Once it's installed, you can leave it at that for now.
 # 3. The scary part....
 
 Open Git Bash
+and now follow my lead !
+DO NOT FOLLOW THIS JUST YET.
+```
+echo "# OCsWriting" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashermeowyaya2/OCsWriting.git
+git push -u origin main
+```
+
 
 ---
 
