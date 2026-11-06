@@ -52,6 +52,7 @@ A thing to note, this will not get you the plugins automatically, so here's a li
 - Media Extended *Not supported on Phone.. oops. It basically allows videos to be played.*
 - PDF++
 - Tag Wrangler
+- Homepage
 
 
 You can also change these to not show, basically they're just saying what's been added, modified, etc.
