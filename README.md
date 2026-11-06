@@ -15,6 +15,8 @@ currently you're in the /c/Users/(USERNAME) directory, it's basically the same a
 you can make sure of this by typing
 `pwd`
 
+Think about where do you want to keep all the files the project, my recommendation ? Documents, and then make a folder 
+
 and now follow my lead !
 DO NOT FOLLOW THIS JUST YET.
 
