@@ -31,6 +31,8 @@ if for whatever reason you want to learn a little more, https://www.youtube.com/
 
 # 4. Obsidian !
 
+Download it
+https://obsidian.md/download
 Open it up, and -------- (this part not sure how to explain, i need a sacrifice for me to help out to know what to put)
 
 ---
@@ -40,7 +42,7 @@ Open it up, and -------- (this part not sure how to explain, i need a sacrifice 
 YOU CAN ACCESS THIS SECTION IN A BETTER WAY AFTER THE SET UP !
 
 Get the habit of clicking ![[README-1793986320972.webp]] since it's what makes sure everyone has the same version
-Click it after making changes specifically.
+Click it after making changes specifically, you could make a shortcut (like Ctrl+S) to quickly do so![[README-1794000747266.webp]]
 
 You can access obsidian through your phone !
 First install Obsidian, open it, create vault, device storage and name it "OCs Writing", allow file access and select where you want to have the vault (It's just a folder being made), i recommend putting into Documents or you could create ad folder in documents, name it something like "ObsidianBS" and go select that folder.
