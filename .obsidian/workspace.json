@@ -11,8 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Home.md",
@@ -21,24 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Home"
-=======
-              "type": "image",
-=======
-              "type": "markdown",
->>>>>>> 69b9dec (peepoo)
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-<<<<<<< HEAD
-              "icon": "lucide-image",
-              "title": "bee"
->>>>>>> a8abfef (...)
-=======
-              "icon": "lucide-file",
-              "title": "README"
->>>>>>> 69b9dec (peepoo)
             }
           }
         ]
@@ -47,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "58db6548e6e06321",
+    "id": "9c98be47539ccd55",
     "type": "split",
     "children": [
       {
-        "id": "80b015c62ebfe0dc",
+        "id": "61b505167c1afe98",
         "type": "tabs",
         "children": [
           {
-            "id": "b011bf1948255e31",
+            "id": "e787b01678a28693",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,12 +50,12 @@
             }
           },
           {
-            "id": "a2076474053c61cc",
+            "id": "1a7c1c7aadc786cd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aboutOC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +67,7 @@
             }
           },
           {
-            "id": "0bd09640071e7358",
+            "id": "6a7bf03da1aad8bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,13 +80,13 @@
             }
           },
           {
-            "id": "9b1b7891bf928d19",
+            "id": "5da5ab0df9953a6e",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -116,20 +96,19 @@
     "width": 300
   },
   "right": {
-    "id": "939047e4fd2744a6",
+    "id": "4c11daeb13b75c09",
     "type": "split",
     "children": [
       {
-        "id": "571ece6e07d06041",
+        "id": "ac5d206773faa055",
         "type": "tabs",
         "children": [
           {
-            "id": "84e90fec4e90157f",
+            "id": "81abe0a5188ba432",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCs/Minecraft/Adelyn/About Adelyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,12 +122,11 @@
             }
           },
           {
-            "id": "83467f38f6f65a51",
+            "id": "6c7f7aab155cd0eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Texts/Phidel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +135,7 @@
             }
           },
           {
-            "id": "f933283e36a85307",
+            "id": "cbfccb8b0c1ea3b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,7 +150,7 @@
             }
           },
           {
-            "id": "a245706d41951eb1",
+            "id": "f83ecd83b4b5a06f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -186,12 +164,11 @@
             }
           },
           {
-            "id": "605bb25df7ebbec7",
+            "id": "90afdb86afadfb5d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCs/Minecraft/Adelyn/About Adelyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,8 +177,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,107 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "README.md",
-    "Home.md",
-    "Images/README-1793987727064.webp",
-    "Texts/Untitled.md",
-    "Images/PhoneStuff/Screenshot_20261106_173941_Obsidian.jpg",
-    "Images/PhoneStuff/Screenshot_20261106_173930_Obsidian.jpg",
-    "Images/README-1793986320972.webp",
-    "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
-    "AsherOCs/DrawingsArchive/PCDrawings/clara.png",
-=======
-  "active": "b011bf1948255e31",
-=======
-  "active": "e7a7b303c61786dc",
->>>>>>> 69b9dec (peepoo)
-  "lastOpenFiles": [
-=======
-    "Images/README-1794062514755.webp",
-    "Images/README-1794062301291.webp",
->>>>>>> 58cd17e (test)
     "OLDREADME.md",
-    "README.md",
-    "Home.md",
-    "Images/bee.png",
-    "Images/README-1794003805399.webp",
-    "Images/README-1794002848659.webp",
-    "Images/README-1794002829896.webp",
-    "Images/README-1794000747266.webp",
-    "Texts/Untitled.md",
-    "Images/PhoneStuff/Screenshot_20261106_174015_Obsidian.jpg",
-    "Images/PhoneStuff/Screenshot_20261106_174400_Obsidian.jpg",
-    "Images/PhoneStuff/Screenshot_20261106_174002_Obsidian.jpg",
-    "Images/PhoneStuff/Screenshot_20261106_173952_Obsidian.jpg",
-    "_fit",
-    "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
->>>>>>> a8abfef (...)
-    "AsherOCs/Minecraft/Phidel/About Phidel.md",
-    "AsherOCs/Minecraft/Phidel/Phidel's Trinket Composition.md",
-    "AsherOCs/Minecraft/Phidel/About Phantoms.md",
-    "AsherOCs/Casino Universe/Shirley/About Shirley.md",
-    "AsherOCs/Casino Universe/Shirley/Shirley Drawings.canvas",
-<<<<<<< HEAD
-    "AsherOCs/DrawingsArchive/LaptopDrawings/vegenmisleldo3.png",
-    "AsherOCs/AnimationArchive/clownMadeOfMeat.canvas",
-    "_fit/README.md",
-    "_fit",
-    "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/phidelmoic3.png",
-    "media-lib/index.base",
-    "media-lib",
-    "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/fwagfth.png",
-    "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/phidelmoic1.png",
-    "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/phidelmoic10.png",
-=======
-    "AsherOCs/AnimationArchive/clownMadeOfMeat.canvas",
-    "_fit/README.md",
-    "media-lib/index.base",
-    "media-lib",
->>>>>>> a8abfef (...)
-    "_fit/AsherOCs/Casino Universe/Asher/About Asher.md",
-    "_fit/AsherOCs/Casino Universe/Asher/Asher Drawings.canvas",
-    "_fit/AsherOCs/Casino Universe/Asher/Comics Where Mentioned.md",
-    "_fit/AsherOCs/Casino Universe/Asher/Animations Where Mentioned.md",
-    "_fit/AsherOCs/Casino Universe/Shirley/About Shirley.md",
-    "_fit/AsherOCs/Casino Universe/Shirley/Comics Where Mentioned.md",
-    "_fit/AsherOCs/Casino Universe/Shirley/Shirley Drawings.canvas",
-    "_fit/AsherOCs/Minecraft/Adelyn/About Adelyn.md",
-    "_fit/AsherOCs/Minecraft/Adelyn/Adelyn Drawings.canvas",
-    "_fit/AsherOCs/Minecraft/Adelyn/Comics Where Mentioned.md",
-    "_fit/AsherOCs/Minecraft/Leonard/About Leonard.md",
-    "_fit/AsherOCs/Minecraft/Leonard/Comics Where Mentioned.md",
-    "_fit/AsherOCs/Minecraft/Leonard/OCNAME Drawings.canvas",
-    "_fit/AsherOCs/Minecraft/Phidel/About Phantoms.md",
-    "_fit/AsherOCs/Minecraft/Phidel/Comics Where Mentioned.md",
-    "_fit/AsherOCs/Minecraft/Phidel/About Phidel.md",
-    "_fit/AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
-    "_fit/AsherOCs/Minecraft/Phidel/Phidel's Trinket Composition.md",
-    "_fit/AsherOCs/AnimationArchive/Finished/ICantDoThisAnymore.mov",
-    "_fit/AsherOCs/AnimationArchive/Finished/TakingNeighborsCarForTest.mov",
-    "_fit/AsherOCs/AnimationArchive/Finished/clownMadeOfMeat.mp4",
-    "_fit/AsherOCs/AnimationArchive/Finished/letstacoboutit.mp4",
-    "_fit/AsherOCs/AnimationArchive/Finished/todayImGonnaTurnIntoA.mp4",
-    "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic",
-    "_fit/AsherOCs/Casino Universe/Asher",
-    "_fit/Templates/OCFolderTemplate/Comics Where Mentioned.md",
-    "_fit/Templates/OCFolderTemplate/OCNAME Drawings.canvas",
-    "_fit/Templates/OCFolderTemplate/Template-AboutOC.md",
-    "_fit/AsherOCs/ComicsArchive/Burning Phantoms.canvas",
-<<<<<<< HEAD
-    "_fit/Excalidraw/phidelTrinket.md",
-<<<<<<< HEAD
-    "_fit/Images/Phone Sharing @_@.md",
-    "_fit/Templates/TemplateNo1.md"
-=======
-    "_fit/Images/Phone Sharing @_@.md"
->>>>>>> a8abfef (...)
-=======
-    "_fit/Excalidraw/phidelTrinket.md"
->>>>>>> 58cd17e (test)
+    "Home.md"
   ]
 }
