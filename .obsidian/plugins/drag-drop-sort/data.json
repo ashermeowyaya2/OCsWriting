@@ -18,7 +18,12 @@
       "Images",
       "Texts",
       "Excalidraw",
+<<<<<<< HEAD
       "README.md"
+=======
+      "README.md",
+      "Home.md"
+>>>>>>> a8abfef (...)
     ],
     "Templates": [
       "OCFolderTemplate",
@@ -47,10 +52,23 @@
       "20261104_172014.heic~",
       "20261104_172032.heic~",
       "20261104_172045.heic~",
+<<<<<<< HEAD
       "PhoneStuff",
       "Phone Sharing @_@.md",
       "20261104_172157.heic~",
       "README-1793986320972.webp"
+=======
+      "20261104_172157.heic~",
+      "PhoneStuff",
+      "Phone Sharing @_@.md",
+      "README-1793986320972.webp",
+      "README-1793987727064.webp",
+      "README-1794000747266.webp",
+      "README-1794002829896.webp",
+      "README-1794002848659.webp",
+      "README-1794003805399.webp",
+      "bee.png"
+>>>>>>> a8abfef (...)
     ],
     "AsherOCs/ComicsArchive": [
       "Burning Phantoms.canvas",
@@ -77,6 +95,22 @@
       "TodayImGonnaTurnIntoA.canvas",
       "clownMadeOfMeat.canvas",
       "Finished"
+<<<<<<< HEAD
+=======
+    ],
+    "Images/PhoneStuff": [
+      "Screenshot_20261106_174039_Obsidian.jpg",
+      "Screenshot_20261106_174248_Obsidian.jpg",
+      "Screenshot_20261106_174030_Obsidian.jpg",
+      "Screenshot_20261106_174002_Obsidian.jpg",
+      "Screenshot_20261106_173952_Obsidian.jpg",
+      "20261104_172014.png",
+      "20261104_172032.png",
+      "20261104_172045.png",
+      "20261104_172157.png",
+      "Screenshot_20261106_173930_Obsidian.jpg",
+      "Screenshot_20261106_173941_Obsidian.jpg"
+>>>>>>> a8abfef (...)
     ]
   }
 }

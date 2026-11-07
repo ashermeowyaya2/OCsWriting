@@ -11,6 +11,7 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Home.md",
@@ -19,6 +20,14 @@
               },
               "icon": "lucide-file",
               "title": "Home"
+=======
+              "type": "image",
+              "state": {
+                "file": "Images/bee.png"
+              },
+              "icon": "lucide-image",
+              "title": "bee"
+>>>>>>> a8abfef (...)
             }
           }
         ]
@@ -208,6 +217,7 @@
       "homepage:Open homepage": false
     }
   },
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
@@ -219,11 +229,31 @@
     "Images/README-1793986320972.webp",
     "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
     "AsherOCs/DrawingsArchive/PCDrawings/clara.png",
+=======
+  "active": "b011bf1948255e31",
+  "lastOpenFiles": [
+    "README.md",
+    "Images/bee.png",
+    "Images/README-1794003805399.webp",
+    "Images/README-1794002848659.webp",
+    "Images/README-1794002829896.webp",
+    "Images/README-1794000747266.webp",
+    "Home.md",
+    "Texts/Untitled.md",
+    "Images/PhoneStuff/Screenshot_20261106_174015_Obsidian.jpg",
+    "Images/PhoneStuff/Screenshot_20261106_174400_Obsidian.jpg",
+    "Images/PhoneStuff/Screenshot_20261106_174002_Obsidian.jpg",
+    "Images/PhoneStuff/Screenshot_20261106_173952_Obsidian.jpg",
+    "_fit",
+    "Images/PhoneStuff/Screenshot_20261106_174350_Obsidian.jpg",
+    "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
+>>>>>>> a8abfef (...)
     "AsherOCs/Minecraft/Phidel/About Phidel.md",
     "AsherOCs/Minecraft/Phidel/Phidel's Trinket Composition.md",
     "AsherOCs/Minecraft/Phidel/About Phantoms.md",
     "AsherOCs/Casino Universe/Shirley/About Shirley.md",
     "AsherOCs/Casino Universe/Shirley/Shirley Drawings.canvas",
+<<<<<<< HEAD
     "AsherOCs/DrawingsArchive/LaptopDrawings/vegenmisleldo3.png",
     "AsherOCs/AnimationArchive/clownMadeOfMeat.canvas",
     "_fit/README.md",
@@ -234,6 +264,12 @@
     "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/fwagfth.png",
     "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/phidelmoic1.png",
     "_fit/AsherOCs/AccessibleDrawings/RandomPhidelComic/phidelmoic10.png",
+=======
+    "AsherOCs/AnimationArchive/clownMadeOfMeat.canvas",
+    "_fit/README.md",
+    "media-lib/index.base",
+    "media-lib",
+>>>>>>> a8abfef (...)
     "_fit/AsherOCs/Casino Universe/Asher/About Asher.md",
     "_fit/AsherOCs/Casino Universe/Asher/Asher Drawings.canvas",
     "_fit/AsherOCs/Casino Universe/Asher/Comics Where Mentioned.md",
@@ -264,7 +300,11 @@
     "_fit/Templates/OCFolderTemplate/Template-AboutOC.md",
     "_fit/AsherOCs/ComicsArchive/Burning Phantoms.canvas",
     "_fit/Excalidraw/phidelTrinket.md",
+<<<<<<< HEAD
     "_fit/Images/Phone Sharing @_@.md",
     "_fit/Templates/TemplateNo1.md"
+=======
+    "_fit/Images/Phone Sharing @_@.md"
+>>>>>>> a8abfef (...)
   ]
 }

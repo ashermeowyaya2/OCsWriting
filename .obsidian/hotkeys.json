@@ -7,5 +7,16 @@
       ],
       "key": "R"
     }
+<<<<<<< HEAD
+=======
+  ],
+  "fit:fit-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+>>>>>>> a8abfef (...)
   ]
 }
