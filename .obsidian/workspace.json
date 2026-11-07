@@ -12,6 +12,7 @@
             "type": "leaf",
             "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Home.md",
@@ -22,12 +23,22 @@
               "title": "Home"
 =======
               "type": "image",
+=======
+              "type": "markdown",
+>>>>>>> 69b9dec (peepoo)
               "state": {
-                "file": "Images/bee.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
+<<<<<<< HEAD
               "icon": "lucide-image",
               "title": "bee"
 >>>>>>> a8abfef (...)
+=======
+              "icon": "lucide-file",
+              "title": "README"
+>>>>>>> 69b9dec (peepoo)
             }
           }
         ]
@@ -218,6 +229,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md",
@@ -231,14 +243,18 @@
     "AsherOCs/DrawingsArchive/PCDrawings/clara.png",
 =======
   "active": "b011bf1948255e31",
+=======
+  "active": "e7a7b303c61786dc",
+>>>>>>> 69b9dec (peepoo)
   "lastOpenFiles": [
+    "OLDREADME.md",
     "README.md",
+    "Home.md",
     "Images/bee.png",
     "Images/README-1794003805399.webp",
     "Images/README-1794002848659.webp",
     "Images/README-1794002829896.webp",
     "Images/README-1794000747266.webp",
-    "Home.md",
     "Texts/Untitled.md",
     "Images/PhoneStuff/Screenshot_20261106_174015_Obsidian.jpg",
     "Images/PhoneStuff/Screenshot_20261106_174400_Obsidian.jpg",

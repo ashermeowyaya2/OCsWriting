@@ -1,41 +1,9 @@
 
 # How to set up !
 
-
-## 2. Download Git
-
-https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe
-Click next until the Editor part, I'd advise choosing Visual Studio code or Notepad ++ , or even Notepad if you don't want to download a new program, Then select the Override, and make sure it's put as main, click Next until the end. IF YOU HAVE ANY DOUBTS, FEEL FREE TO ASK !!
-Once it's installed, you can leave it at that for now.
-# 3. The scary part....
-
-Open Git Bash
-
-currently you're in the /c/Users/(USERNAME) directory, it's basically the same as C:\Users\(USERNAME)
-you can make sure of this by typing
-`pwd`
-
-Think about where do you want to keep all the files the project, my recommendation ? Documents, and then make a folder named something like 'ObsidianBS' 
-if you've done that you can
-`cd "./Documents/ObsidianBS/"`
-
-you can then do
-`` \br
-
-`cd ./OCsWriting/` \br
-
-`git init` \br
-
-if you get any issues with this part, just ping me !
-to be honest no one has tried this yet to tell me if i may be missing anything
-
-if for whatever reason you want to learn a little more, https://www.youtube.com/watch?v=SwtL-6w-B5c <- this video explains pretty nicely
-
-# 4. Obsidian !
-
-Download it
+Download it Obsidian
 https://obsidian.md/download
-Open it up, and -------- (this part not sure how to explain, i need a sacrifice for me to help out to know what to put)
+Open it up, and
 
 Open folder as Vault
 Select the documents folder, go into Obsidian, and then select OCs writing

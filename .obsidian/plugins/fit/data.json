@@ -1,4 +1,16 @@
 {
+  "encryptionPassword": "",
+  "pat": "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",
+  "owner": "TheUnsoberlydrunkgang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/251506725?v=4",
+  "repo": "OCWriting",
+  "branch": "main",
+  "deviceName": "MainAsherPC",
+  "checkEveryXMinutes": 5,
+  "autoSync": "on",
+  "notifyChanges": true,
+  "notifyConflicts": true,
+  "enableDebugLogging": true,
   "localSha": {
     "Texts/Untitled.md": "415d8d59d289f79509b841a0465e66544bf12043",
     "Templates/TemplateNo1.md": "1b8447d30fb5e08a9c5745af67312dcdbe804e5a",
@@ -348,6 +360,7 @@
     "Templates/OCFolderTemplate/Template-AboutOC.md": "6d217ef6f7a04de3d460655deb955a1e9da4938a",
     "Templates/TemplateNo1.md": "3d9b0d47aeb520266468de6f25d11fdf2ff427b6",
     "Texts/Untitled.md": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+<<<<<<< HEAD
   },
   "encryptionPassword": "",
 <<<<<<< HEAD
@@ -365,4 +378,7 @@
   "notifyChanges": true,
   "notifyConflicts": true,
   "enableDebugLogging": true
+=======
+  }
+>>>>>>> 69b9dec (peepoo)
 }

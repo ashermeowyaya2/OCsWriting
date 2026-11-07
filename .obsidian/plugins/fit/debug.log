@@ -15069,4 +15069,69 @@
   "totalOperations": 0,
   "conflicts": 0
 }
+<<<<<<< HEAD
 >>>>>>> a8abfef (...)
+=======
+[2026-11-07T14:32:47.236Z] [Plugin] Starting plugin initialization
+[2026-11-07T14:32:47.238Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 94,
+  "remoteShaCount": 189,
+  "lastCommit": "5295632fcd37aa7a2d23be9ac99dc0f7bb849fa9"
+}
+[2026-11-07T14:32:47.240Z] [Plugin] Plugin initialization completed successfully
+[2026-11-07T14:34:31.683Z] [FitSettings] Could not fetch branches for TheUnsoberlydrunkgang/O: Repository 'TheUnsoberlydrunkgang/O' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'TheUnsoberlydrunkgang/O' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/TheUnsoberlydrunkgang/O/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.15.0 Chrome/150.0.7871.250 Electron/43.8.6 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/TheUnsoberlydrunkgang/O/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "8B8A:3C8B7D:3483D3:504405:6AEF36F7",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4994",
+            "x-ratelimit-reset": "1794065643",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "6"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+>>>>>>> 69b9dec (peepoo)
