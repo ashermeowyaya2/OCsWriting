@@ -1,20 +1,23 @@
 
 # How to set up !
 
-Download it Obsidian
+Download this Repo as a ZIP
+![[README-1794062301291.webp]]
+extract it somewhere you'll remember, for example in Documents:
+C:/Users/(USERNAME)/Documents/ObsidianStuff/
+That's roughly how i have on my computer 
+
+Download Obsidian
 https://obsidian.md/download
 Open it up, and
 
 Open folder as Vault
-Select the documents folder, go into Obsidian, and then select OCs writing
+Select the documents folder, go into Obsidian, and then select the extracted zip
+Click to trust author
 
-Go into settings, go into Fit
-![[README-1794002829896.webp]]
-
-click the![[README-1794002848659.webp]] and just change the expiration to be Forever, that way you dont have to renew it
-the token is pretty important be careful who you share it with![[README-1794003805399.webp]]
-
-after you've generated it, copy it and paste it into Github Personal Access token
+If you get this error,
+![[README-1794062514755.webp]]
+                  contact me immediately.
 
 ---
 

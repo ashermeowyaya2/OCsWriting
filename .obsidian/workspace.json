@@ -232,6 +232,7 @@
 <<<<<<< HEAD
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "README.md",
     "Home.md",
     "Images/README-1793987727064.webp",
@@ -247,6 +248,10 @@
   "active": "e7a7b303c61786dc",
 >>>>>>> 69b9dec (peepoo)
   "lastOpenFiles": [
+=======
+    "Images/README-1794062514755.webp",
+    "Images/README-1794062301291.webp",
+>>>>>>> 58cd17e (test)
     "OLDREADME.md",
     "README.md",
     "Home.md",
@@ -261,7 +266,6 @@
     "Images/PhoneStuff/Screenshot_20261106_174002_Obsidian.jpg",
     "Images/PhoneStuff/Screenshot_20261106_173952_Obsidian.jpg",
     "_fit",
-    "Images/PhoneStuff/Screenshot_20261106_174350_Obsidian.jpg",
     "AsherOCs/Minecraft/Phidel/Phidel Drawings.canvas",
 >>>>>>> a8abfef (...)
     "AsherOCs/Minecraft/Phidel/About Phidel.md",
@@ -315,6 +319,7 @@
     "_fit/Templates/OCFolderTemplate/OCNAME Drawings.canvas",
     "_fit/Templates/OCFolderTemplate/Template-AboutOC.md",
     "_fit/AsherOCs/ComicsArchive/Burning Phantoms.canvas",
+<<<<<<< HEAD
     "_fit/Excalidraw/phidelTrinket.md",
 <<<<<<< HEAD
     "_fit/Images/Phone Sharing @_@.md",
@@ -322,5 +327,8 @@
 =======
     "_fit/Images/Phone Sharing @_@.md"
 >>>>>>> a8abfef (...)
+=======
+    "_fit/Excalidraw/phidelTrinket.md"
+>>>>>>> 58cd17e (test)
   ]
 }
