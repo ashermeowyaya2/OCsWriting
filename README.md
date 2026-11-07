@@ -15,9 +15,40 @@ Open folder as Vault
 Select the documents folder, go into Obsidian, and then select the extracted zip
 Click to trust author
 
-If you get this error,
-![[README-1794062514755.webp]]
-                  contact me immediately.
+Open up settings, and look for the Fit tab
+![[README-1794075705772.webp|509x287]]
+
+Make sure you're logged in in your browser
+![[README-1794075843484.webp]]
+on this section, clik the button on the right side, the ![[Images/README-1794002848659.webp]]
+
+![[README-1794075923567.webp|362x385]]
+
+You can then have something like this, if you dont have the option for only select repositories, dont worry, this is because you dont actually own any repositories of your own.
+
+Scroll down and you'll see ![[README-1794075989284.webp]]
+![[README-1794076013868.webp]]
+
+you can then copy what appears under there, this token is basically an easy access to your account, you'll rarely need to use it.
+
+Go back to this page, paste the token there and click authenticate user
+![[README-1794076065869.webp]]
+
+then scroll down a little and make sure this is what you have.
+
+![[README-1794076134137.webp]]
+ashermeowmeowyaya2 if you need to copy
+
+OPTIONAL BUT RECOMMENDED !
+
+![[README-1794076176405.webp]]
+if you scroll down further, you'll see this.
+- Device Name, would be recommedned to put your name, and what device you're using, in my case i would put "AsherMainPC".
+- Auto sync can let you save automatically and or send the new changes automatically in a certain period of time, unfortunately as far i know you cannot make it 1 second....
+- Notice Display is basically a little notification thing that may show up when you save or sync with the repo. If it's too annoying you can turn it off.
+- Enable Debug logging, you'll likely not need it but maybe keep it incase something goes wrong, i can check it for ya (or you can learn how to fix it yourself.)
+
+If you come across any errors, just come tell me.
 
 ---
 

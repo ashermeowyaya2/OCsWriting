@@ -1,15 +1,4 @@
 {
-  "app:reload": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-<<<<<<< HEAD
-=======
-  ],
   "fit:fit-sync": [
     {
       "modifiers": [
@@ -17,6 +6,5 @@
       ],
       "key": "S"
     }
->>>>>>> a8abfef (...)
   ]
 }
