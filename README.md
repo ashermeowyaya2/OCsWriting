@@ -2,7 +2,7 @@
 # How to set up !
 
 Download this Repo as a ZIP
-![[README-1794062301291.webp]]
+[Images/README-1794075705772.webp]
 extract it somewhere you'll remember, for example in Documents:
 C:/Users/(USERNAME)/Documents/ObsidianStuff/
 That's roughly how i have on my computer 
